@@ -65,6 +65,8 @@ ZSH_THEME="robbyrussell"
 plugins=(
   git
   command-not-found
+  cp
+  web-search
 )
 
 source $ZSH/oh-my-zsh.sh
