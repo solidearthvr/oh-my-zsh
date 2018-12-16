@@ -104,6 +104,4 @@ source $ZSH/oh-my-zsh.sh
 alias dir="ls -altr | more"
 alias cs="source ~/.zshrc"
 
-if [[ -f ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
-    source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-fi
+
