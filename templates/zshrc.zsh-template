@@ -67,6 +67,7 @@ plugins=(
   command-not-found
   cp
   web-search
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
